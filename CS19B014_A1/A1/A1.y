@@ -13,7 +13,7 @@ struct macro{
 	char id[1000];
 	char val[1000];
 	char par[1000];
-	bool typessssss;
+	bool type;
 };
 
 struct macro macros[1000];
